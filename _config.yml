@@ -14,7 +14,7 @@ lang: en
 icon: 🧬 # Using a DNA emoji
 
 url: https://pukkahb.github.io
-baseurl: "" # IMPORTANT: This must be blank for your user page.
+baseurl: "pukkahb/portfolio" # IMPORTANT: This must be blank for your user page.
 last_updated: false
 impressum_path:
 back_to_top: true
